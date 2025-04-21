@@ -63,19 +63,19 @@ dependencies:
   # Custom VideoPlayer with support for Muxed Streams
   video_player:
     git:
-      url: https://github.com/SongTube/video_player
+      url: https://github.com/hed0n1st/video_player
       ref: master
 
   # Audio Tagger, Music Data Extractor
   audio_tagger:
     git:
-      url: https://github.com/SongTube/audio_tagger
+      url: https://github.com/hed0n1st/audio_tagger
       ref: main
 
   # CrossFade Images
   image_fade:
     git:
-      url: https://github.com/SongTube/image_fade.git
+      url: https://github.com/hed0n1st/image_fade.git
       ref: master
 
   # Audio Query, Extract Music from device
@@ -127,7 +127,7 @@ dependencies:
   # Picture in Picture
   flutter_pip:
     git:
-      url: https://github.com/SongTube/flutter_pip
+      url: https://github.com/hed0n1st/flutter_pip
       ref: main
 
   # Aditional UI Stuff I'm too lazy to do myself
@@ -143,13 +143,13 @@ dependencies:
   # NewPipe Extractor
   newpipeextractor_dart:
     git:
-      url: https://github.com/SongTube/NewPipeExtractor_Dart
+      url: https://github.com/hed0n1st/NewPipeExtractor_Dart
       ref: master
 
   # Apk installer
   apk_installer:
     git:
-      url: https://github.com/SongTube/apk_installer.git
+      url: https://github.com/hed0n1st/apk_installer.git
       ref: main
 
   # For InApp update
